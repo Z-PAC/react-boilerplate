@@ -1,15 +1,16 @@
 # React App Boilerplate
 
-Default folder and config structure for React apps.
-Includes:
-	-Webpack configs
-	-Authentication
-	-Firebase configs
-	-Jest & Enzyme
-	-Redux
-	-React Router
-	-Babel plugin configs
-	-CSS loaders
+Default folder and config structure for React apps.<br/>
+Includes:<br/>
+	-Webpack configs<br/>
+	-Authentication<br/>
+	-Firebase configs<br/>
+	-Jest & Enzyme<br/>
+	-Redux<br/>
+	-React Router<br/>
+	-Babel plugin configs<br/>
+	-CSS loaders<br/>
+	-Heroku integration<br/>
 
 # Commands
 	"build:dev": "webpack",
